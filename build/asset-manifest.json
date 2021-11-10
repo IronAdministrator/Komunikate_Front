@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.774be68c.chunk.css",
+    "main.js": "/static/js/main.531ceb23.chunk.js",
+    "main.js.map": "/static/js/main.531ceb23.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dfaae45f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dfaae45f.js.map",
+    "static/css/2.1dd1e755.chunk.css": "/static/css/2.1dd1e755.chunk.css",
+    "static/js/2.752c364a.chunk.js": "/static/js/2.752c364a.chunk.js",
+    "static/js/2.752c364a.chunk.js.map": "/static/js/2.752c364a.chunk.js.map",
+    "static/js/3.d0d151e2.chunk.js": "/static/js/3.d0d151e2.chunk.js",
+    "static/js/3.d0d151e2.chunk.js.map": "/static/js/3.d0d151e2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1dd1e755.chunk.css.map": "/static/css/2.1dd1e755.chunk.css.map",
+    "static/css/main.774be68c.chunk.css.map": "/static/css/main.774be68c.chunk.css.map",
+    "static/js/2.752c364a.chunk.js.LICENSE.txt": "/static/js/2.752c364a.chunk.js.LICENSE.txt",
+    "static/media/01_BerlinTurm.3ecec37c.jpg": "/static/media/01_BerlinTurm.3ecec37c.jpg",
+    "static/media/02_Guitar.128a5401.jpg": "/static/media/02_Guitar.128a5401.jpg",
+    "static/media/03_BeerOutside.2579069c.jpg": "/static/media/03_BeerOutside.2579069c.jpg",
+    "static/media/04_RJD6863.cdd136d3.jpg": "/static/media/04_RJD6863.cdd136d3.jpg",
+    "static/media/05_ThreeWoman.90bcb5d9.jpg": "/static/media/05_ThreeWoman.90bcb5d9.jpg",
+    "static/media/06_RJD9955.a72fe309.jpg": "/static/media/06_RJD9955.a72fe309.jpg",
+    "static/media/07_relocating-to-germany.d3e35f7a.jpg": "/static/media/07_relocating-to-germany.d3e35f7a.jpg",
+    "static/media/08_Berlin_Bridge.f07c4206.jpg": "/static/media/08_Berlin_Bridge.f07c4206.jpg",
+    "static/media/10_BerlinSky.f0b089fb.jpg": "/static/media/10_BerlinSky.f0b089fb.jpg",
+    "static/media/Komunikate_Long_Black_v01.984987a5.svg": "/static/media/Komunikate_Long_Black_v01.984987a5.svg",
+    "static/media/Komunikate_Long_Blue_sub_v03.1eb9dd82.svg": "/static/media/Komunikate_Long_Blue_sub_v03.1eb9dd82.svg",
+    "static/media/Logo.e734cedd.png": "/static/media/Logo.e734cedd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfaae45f.js",
+    "static/css/2.1dd1e755.chunk.css",
+    "static/js/2.752c364a.chunk.js",
+    "static/css/main.774be68c.chunk.css",
+    "static/js/main.531ceb23.chunk.js"
+  ]
+}
