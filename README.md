@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# The Komunikate_App for those arriving in Germany and going through all the documentation needed. Users can communicate via instant messaging and always stay up to date with the help of our newsfeed.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
